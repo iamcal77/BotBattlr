@@ -81,7 +81,7 @@ The app fetches bot data from a local JSON server with the following endpoints:
 
 ## Contributing
 If you find any issues or have ideas for new features, please submit a pull request or open an issue on the GitHub repository.
-https://github.com/kipngenohaaron/Bot_Battlr
+https://github.com/iamcal77/BotBattlr
 
 ## License
 

@@ -1,7 +1,7 @@
 Sure! Below is a sample README for the Bot Battlr React application:
 
 # Bot Battlr - React App
-# Author - Kipngenoh Aaron Rotich
+# Author - Calvin Kipkirui
 
 Welcome to Bot Battlr, the one and only spot in the known universe where you can custom build your own Bot Army! This React application allows users to view available bots, create their bot army, and engage in battles.
 

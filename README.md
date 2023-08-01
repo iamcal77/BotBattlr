@@ -59,7 +59,7 @@ Additionally, the app includes the following advanced features:
 
 To install and run the Bot Battlr app, follow these steps:
 
-1. Clone the repository from GitHub: [Link to GitHub Repository](https://github.com/kipngenohaaron/Bot_Battlr)
+1. Clone the repository from GitHub: [Link to GitHub Repository](https://github.com/iamcal77/BotBattlr)
 2. Install the required dependencies by running `npm install` in the project directory.
 
 ## Usage

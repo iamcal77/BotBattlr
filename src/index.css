@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.App-left {
+  flex: 2;
+}
+
+.App-right {
+  flex: 1;
+}
+
+.bot-collection, .your-bot-army {
+  margin: 20px 0;
+}
+
+.bot-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.bot-card {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.sort-bar {
+  margin-bottom: 20px;
+}
+
+.sort-bar button {
+  margin-right: 5px;
+}
+
+.App-bot-specs {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.App-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.App-filter button {
+  margin-left: 10px;
+}
